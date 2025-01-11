@@ -1,15 +1,13 @@
 ![image](https://github.com/user-attachments/assets/067f4fd2-e22e-49fb-859d-fd2856c12313)
 
-
-## 1. 프로젝트 개요 
 <br>
+## 1. 프로젝트 개요 
  소셜 네트워크 서비스(SNS) 중 하나인 인스타그램에서 작성된 리뷰 게시글의 광고성을 판별하고, 광고성 여부를 수치화하여 사용자에게 시각적으로 제공하는 BiLSTM-Attention 기반 인공지능 시스템을 개발하는 것을 목표로 한다. 최근 전자상거래의 소셜커머스의 확산으로 인해 SNS를 통한 광고성 리뷰 게시글이 증가하고 있으며, 이러한 게시글은 소비자들이 신뢰할 수 있는 정보를 얻는 데 장애요인이 되고 있다. 특히, SNS 기반 소셜 커머스에서는 협찬이나 대가성으로 작성된 리뷰가 적절히 표기되지 않아 소비자들이 이를 일반 리뷰로 오인하는 사례가 빈번하다. 이는 허위 및 과대광고로 인한 경제적 피해와 만족도 저하로 이어질 수 있다
 <br>
 
 
 
 <br>
-
 ## 🎁팀원 소개
 > **[한화시스템 BEYOND SW캠프 6기] Final Project** 
 
@@ -27,8 +25,6 @@
     <td align="center">🐥<a href="https://github.com/dyun23"><b>김다윤</b></td>
     <td align="center">🦊<a href="https://github.com/sue06004"><b>김우혁</b></td>
     <td align="center">😼<a href="https://github.com/jimnyy"><b>도지민</b></td>
-    <td align="center">🐰<a href="https://github.com/dlrkdms125"><b>이가은</b></td>
-    <td align="center">🐻<a href="https://github.com/ashd89"><b>이재룡</b></td>
   </tr>
   </table>
 <br>
@@ -56,8 +52,8 @@
 <br>
 
 
-<br>
-3. 시스템 설계
-4. 시스템 구현
-5. 프로젝트 결과
+
+## 3. 시스템 설계
+## 4. 시스템 구현
+## 5. 프로젝트 결과
 
