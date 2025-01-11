@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/067f4fd2-e22e-49fb-859d-fd2856c12313)
+![image](https://github.com/user-attachments/assets/521fe907-172d-400d-af2e-8f16783f85c2)![image](https://github.com/user-attachments/assets/067f4fd2-e22e-49fb-859d-fd2856c12313)
 
 <br>
 
@@ -13,14 +13,14 @@
 
 <table align="center">
  <tr>
-    <td align="center"><a href="https://github.com/dyun23"><img src="https://github.com/user-attachments/assets/99536e16-063c-4785-92d2-44b909ab7c84" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/sue06004"><img src="https://github.com/user-attachments/assets/2dde57cc-aa14-410c-99f7-9d50841fde51" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/dyun23"><img src="[https://github.com/user-attachments/assets/99536e16-063c-4785-92d2-44b909ab7c84](https://cdn.pixabay.com/photo/2021/12/26/17/31/pokemon-6895600_1280.png)" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/sue06004"><img src="[https://github.com/user-attachments/assets/2dde57cc-aa14-410c-99f7-9d50841fde51](https://i.namu.wiki/i/RQBoymvPB5YEMOOr1-fo2J5S58ep8bW5I3kt2vWt-6UN399RSb7wgZPaeIZ5_a6j7wUB9A30eov5RGbrzrsrCA.webp)" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/jimnyy"><img src="https://github.com/user-attachments/assets/5ff5cb30-f7aa-4ab2-a18d-a31087ab9f80" width="150px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center">🐥<a href="https://github.com/dyun23"><b>김다윤</b></td>
-    <td align="center">🦊<a href="https://github.com/sue06004"><b>김우혁</b></td>
-    <td align="center">😼<a href="https://github.com/jimnyy"><b>도지민</b></td>
+    <td align="center">🐥<a href="https://github.com/dyun23"><b>서진영</b></td>
+    <td align="center">🦊<a href="https://github.com/sue06004"><b>김수훈</b></td>
+    <td align="center">😼<a href="https://github.com/jimnyy"><b>김찬종</b></td>
   </tr>
   </table>
 <br><br>
@@ -61,7 +61,7 @@
 직장인 B씨(21)는 평소 즐겨보던 유튜버가 액상차를 먹고 붓기제거와 독소배출 효과를 봤다는 영상을 보고 해당 제품을 구매했다. 하지만 이는 전혀 효과가 없었고, 이후 인터넷 기사에서 허위, 과장 광고로 적발된 제품에 해당 제품이 있는 것을 확인하고 배신감이 들었다고 전했다.
 
 <br><br>
-이러한 사례들은 광고성 리뷰 게시글이 소비자들에게 미치는 부정적인 영향을 잘 보여준다. 소비자는 광고성 리뷰 게시글을 일반 리뷰로 오인하여 1) 신뢰할 수 없는 정보를 기반으로 구매 결정을 내리게 되며, 이는 경제적 피해뿐만 아니라 2) 사용자의 만족도를 저하 시킨다. 특히, SNS 기반 소셜커머스에서는 협찬이나 대가성으로 작성된 리뷰가 적절히 표기되지 않아 3) 소비자들이 이를 구분하기 어려운 상황이다.
+이러한 사례들은 광고성 리뷰 게시글이 소비자들에게 미치는 부정적인 영향을 잘 보여준다. 소비자는 광고성 리뷰 게시글을 일반 리뷰로 오인하여 **1) 신뢰할 수 없는 정보** 를 기반으로 구매 결정을 내리게 되며, 이는 경제적 피해뿐만 아니라 **2) 사용자의 만족도를 저하** 시킨다. 특히, SNS 기반 소셜커머스에서는 협찬이나 대가성으로 작성된 리뷰가 적절히 표기되지 않아 **3) 소비자들이 이를 구분하기 어려운 상황이다.**
 <br>
 
 ### 2-1. 문제정의
