@@ -3,6 +3,27 @@
 <br>
 
 
+
+## 2. 팀원 소개
+> **[한화시스템 BEYOND SW캠프 6기] Final Project** 
+
+> **팀 SENAGAE 세나개**
+
+<table align="center">
+ <tr>
+    <td align="center"><a href="https://github.com/dyun23"><img src="https://github.com/user-attachments/assets/99536e16-063c-4785-92d2-44b909ab7c84" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/sue06004"><img src="https://github.com/user-attachments/assets/2dde57cc-aa14-410c-99f7-9d50841fde51" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jimnyy"><img src="https://github.com/user-attachments/assets/5ff5cb30-f7aa-4ab2-a18d-a31087ab9f80" width="150px;" alt=""></td>
+  </tr>
+  <tr>
+    <td align="center">🐥<a href="https://github.com/dyun23"><b>김다윤</b></td>
+    <td align="center">🦊<a href="https://github.com/sue06004"><b>김우혁</b></td>
+    <td align="center">😼<a href="https://github.com/jimnyy"><b>도지민</b></td>
+  </tr>
+  </table>
+<br>
+
+
 ## 📜 목차
 1. [프로젝트 개요](#1-프로젝트-개요)
 2. [팀원 소개](#2-팀원-소개)
@@ -22,26 +43,7 @@
 
 <br>
 
-## 2. 팀원 소개
-> **[한화시스템 BEYOND SW캠프 6기] Final Project** 
 
-> **팀 SENAGAE 세나개**
-
-<table align="center">
- <tr>
-    <td align="center"><a href="https://github.com/dyun23"><img src="https://github.com/user-attachments/assets/99536e16-063c-4785-92d2-44b909ab7c84" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/sue06004"><img src="https://github.com/user-attachments/assets/2dde57cc-aa14-410c-99f7-9d50841fde51" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/jimnyy"><img src="https://github.com/user-attachments/assets/5ff5cb30-f7aa-4ab2-a18d-a31087ab9f80" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/dlrkdms125"><img src="https://github.com/user-attachments/assets/42bed0f6-7d78-4eec-8906-e843495fca4f" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/ashd89"><img src="https://github.com/user-attachments/assets/ce222453-33eb-450c-94a0-a46be9352506" width="150px;" alt=""></td>
-  </tr>
-  <tr>
-    <td align="center">🐥<a href="https://github.com/dyun23"><b>김다윤</b></td>
-    <td align="center">🦊<a href="https://github.com/sue06004"><b>김우혁</b></td>
-    <td align="center">😼<a href="https://github.com/jimnyy"><b>도지민</b></td>
-  </tr>
-  </table>
-<br>
 
 
 
