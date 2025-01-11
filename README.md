@@ -8,7 +8,7 @@
 
 
 <br><br>
-## 2. 팀원 소개
+## 2. 팀원 및 역할 분담
 > **팀 Skrr**
 
 <table align="center">
