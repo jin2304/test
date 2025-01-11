@@ -21,9 +21,9 @@
     <td align="center"><a href="https://github.com/jimnyy"><img src="https://static.wikia.nocookie.net/pokemon/images/a/aa/%EA%BC%AC%EB%B6%80%EA%B8%B0_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest?cb=20170404233452&path-prefix=ko" width="150px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center">🐥<a href="https://github.com/dyun23"><b>서진영</b></td>
-    <td align="center">🦊<a href="https://github.com/sue06004"><b>김수훈</b></td>
-    <td align="center">😼<a href="https://github.com/jimnyy"><b>김찬종</b></td>
+    <td align="center">.🔥<a href="https://github.com/dyun23"><b>서진영</b></td>
+    <td align="center">🌳<a href="https://github.com/sue06004"><b>김수훈</b></td>
+    <td align="center">💧<a href="https://github.com/jimnyy"><b>김찬종</b></td>
   </tr>
   </table>
 <br><br>
