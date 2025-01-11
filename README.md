@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/521fe907-172d-400d-af2e-8f16783f85c2)![image](https://github.com/user-attachments/assets/067f4fd2-e22e-49fb-859d-fd2856c12313)
+
 
 <br>
 
@@ -13,8 +13,8 @@
 
 <table align="center">
  <tr>
-    <td align="center"><a href="https://github.com/dyun23"><img src="[https://github.com/user-attachments/assets/99536e16-063c-4785-92d2-44b909ab7c84](https://cdn.pixabay.com/photo/2021/12/26/17/31/pokemon-6895600_1280.png)" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/sue06004"><img src="[https://github.com/user-attachments/assets/2dde57cc-aa14-410c-99f7-9d50841fde51](https://i.namu.wiki/i/RQBoymvPB5YEMOOr1-fo2J5S58ep8bW5I3kt2vWt-6UN399RSb7wgZPaeIZ5_a6j7wUB9A30eov5RGbrzrsrCA.webp)" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/dyun23"><img src="https://github.com/user-attachments/assets/99536e16-063c-4785-92d2-44b909ab7c84](https://cdn.pixabay.com/photo/2021/12/26/17/31/pokemon-6895600_1280.png" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/sue06004"><img src="https://i.namu.wiki/i/RQBoymvPB5YEMOOr1-fo2J5S58ep8bW5I3kt2vWt-6UN399RSb7wgZPaeIZ5_a6j7wUB9A30eov5RGbrzrsrCA.webp" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/jimnyy"><img src="https://github.com/user-attachments/assets/5ff5cb30-f7aa-4ab2-a18d-a31087ab9f80" width="150px;" alt=""></td>
   </tr>
   <tr>
