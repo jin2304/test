@@ -109,43 +109,12 @@
 
 <div align="center" style="font-size: 14px;">
 
-| 게시글 구분       | 파일 이름  | 사용한 해시태그                                                                                   | 개수   |
+| 게시글 구분       | 파일<br>이름  | 사용한 해시태그                                                                                   | 개수   |
 |-------------------|------------|----------------------------------------------------------------------------------------------------|--------|
 | 광고성 게시글      | 광고.xlsx   | #광고, #광고입니다, #제품제공, #협찬, #협찬리뷰, #협찬광고, #협찬제품                                   | 5346개 |
 | 일반 게시글        | 일반.xlsx   | #내돈내산, #내돈내산후기, #찐리뷰, #찐리뷰어, 진후기, #광고아님, ...                  | 4146개 |
 
 </div>
-
-
-## <div align="center">[ 표 2 ] 웹 크롤링 수집 결과 (데이터 수집 기간 2024/4/29 ~ 2024/11/24)</div>
-
-<div align="center">
-  <table style="border-collapse: collapse; width: 90%; text-align: center; font-size: 14px; border: 1px solid #ddd;">
-    <thead>
-      <tr style="background-color: #f2f2f2; border-bottom: 2px solid #ddd;">
-        <th style="width: 20%; padding: 10px;">게시글 구분</th>
-        <th style="width: 15%; padding: 10px;">파일 이름</th>
-        <th style="width: 50%; padding: 10px;">사용한 해시태그</th>
-        <th style="width: 15%; padding: 10px;">개수</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 10px;">광고성 게시글</td>
-        <td style="padding: 10px;">광고.xlsx</td>
-        <td style="padding: 10px;">#광고, #광고입니다, #제품제공, #협찬, #협찬리뷰, #협찬광고, #협찬제품</td>
-        <td style="padding: 10px;">5346개</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #ddd;">
-        <td style="padding: 10px;">일반 게시글</td>
-        <td style="padding: 10px;">일반.xlsx</td>
-        <td style="padding: 10px;">#내돈내산, #내돈내산후기, #진리뷰, #진리뷰어, 진후기, #광고아님, #협찬아닙니다, ...</td>
-        <td style="padding: 10px;">4146개</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 
 <br>
 
