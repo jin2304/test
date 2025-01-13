@@ -106,7 +106,7 @@
 #### <div align="center">[표 2] 웹 크롤링 수집 결과 (데이터 수집 기간 2024/4/29 ~ 2024/11/24)</div>
 
 <div align="center">
-  <table style="font-size: 12px; border-collapse: collapse; text-align: center;">
+  <table style="font-size: 10px; border-collapse: collapse; text-align: center;">
     <thead>
       <tr>
         <th>게시글 구분</th>
