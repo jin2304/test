@@ -105,14 +105,15 @@
 
 #### <div align="center">[표 2] 웹 크롤링 수집 결과 (데이터 수집 기간 2024/4/29 ~ 2024/11/24)</div>
 
+
 <div align="center">
-  <table style="font-size: 10px; border-collapse: collapse; text-align: center;">
+  <table style="border-collapse: collapse; width: 80%; text-align: center; font-size: 14px;">
     <thead>
-      <tr>
-        <th>게시글 구분</th>
-        <th>파일 이름</th>
-        <th>사용한 해시태그</th>
-        <th>개수</th>
+      <tr style="border-bottom: 1px solid #ddd;">
+        <th style="width: 20%;">게시글 구분</th>
+        <th style="width: 15%;">파일 이름</th>
+        <th style="width: 50%;">사용한 해시태그</th>
+        <th style="width: 15%;">개수</th>
       </tr>
     </thead>
     <tbody>
@@ -132,7 +133,6 @@
   </table>
 </div>
 
-</div>
 
 
 
