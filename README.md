@@ -73,6 +73,8 @@
 
 ![image](https://github.com/user-attachments/assets/aa5d1912-b17b-44d9-9b8a-381244aedfc8)
 
+![image](https://github.com/user-attachments/assets/c4a47caf-06c9-44d9-bb60-cb7370a26a6f)
+
 
 ## 3. 시스템 구성도
 
