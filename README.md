@@ -394,7 +394,13 @@
 - 이 시스템은 SNS 사용자가 신뢰할 수 없는 광고성 리뷰를 쉽게 식별하고, 소비자 피해를 줄이는 데 기여할 수 있는 잠재력 보여줌.
 
 
-![image](https://github.com/user-attachments/assets/75d86332-c7a7-483a-9531-86050f4b4e95)
+![image](https://github.com/user-attachments/assets/81aaf3af-f57a-4eb4-84f2-47c7aa076e55)
 
-![image](https://github.com/user-attachments/assets/fbc52e73-0a37-43a5-8dfd-dbe074ac1fe3)
+
+![image](https://github.com/user-attachments/assets/54b890b5-13fc-4928-b437-d831fafb4370)
+
+
+![image](https://github.com/user-attachments/assets/d825cb33-599e-4ec6-83d4-02abf3e5bd1b)
+
+
 
