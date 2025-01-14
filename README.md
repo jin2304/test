@@ -57,7 +57,6 @@
 
 ![image](https://github.com/user-attachments/assets/4b70b79d-8289-4978-b18a-773611beb6c2)
 
-![image](https://github.com/user-attachments/assets/6b1e6367-21c6-42d8-95dc-3260e985fe07)
 
 
 
@@ -85,8 +84,6 @@
 <br>
 
 ### 2-1. 문제정의
-
-![image](https://github.com/user-attachments/assets/aa5d1912-b17b-44d9-9b8a-381244aedfc8)
 
 ![image](https://github.com/user-attachments/assets/6ba0bebb-89cc-4eb7-8898-8d35beedac65)
 
