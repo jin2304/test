@@ -65,7 +65,8 @@
 
 
 
-![image]()
+![연구배경](https://github.com/user-attachments/assets/34c72d64-6b74-451b-bc8f-efef6b354a59)
+
 
 
 <br>
