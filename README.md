@@ -75,7 +75,7 @@
 
 <br>
 
-<td align="center"><img src="https://github.com/user-attachments/assets/c59fd487-7ffa-4b10-ae13-3e4ea01b12b9"></td>
+![image](https://github.com/user-attachments/assets/c59fd487-7ffa-4b10-ae13-3e4ea01b12b9)
 
 
 `사례1)` <br>
