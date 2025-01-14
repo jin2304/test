@@ -78,7 +78,7 @@
 `사례1)`
 <table align="center">
  <tr>
-  <td align="center"><img src="https://github.com/user-attachments/assets/05fc2d99-9a71-4ee0-b273-5ad35e7b4d63" alt=""></td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/05fc2d99-9a71-4ee0-b273-5ad35e7b4d63" width="300px;" alt=""></td>
  </tr>
  <tr>
   <td align="center"><b>
