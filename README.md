@@ -155,7 +155,8 @@
 
 ## 구현 절차
 
-![image](https://github.com/user-attachments/assets/c668352f-64a1-4cbb-a97a-5016742b754b)
+
+![연구 절차](https://github.com/user-attachments/assets/81b52ddd-8608-414b-9130-6ae07f7d7a3b)
 
 
 
