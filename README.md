@@ -119,8 +119,14 @@
 
 
  ![image](https://github.com/user-attachments/assets/71ac2f12-6fe5-4383-ad42-83a064f478d5)
-
-
+<div align="center">
+| 구분 | 사양  |
+|--------------|--------------------------------|
+| 저작언어     | Python 3.7.16                  | 
+| 프레임워크   | Pycharm                        | 
+| 가상환경     | Anaconda 24.9.2                | 
+| GPU          | NVIDIA Geforce RTX 3070 Ti     | 
+</div>
 ![system structure](https://github.com/user-attachments/assets/781d6123-9f1d-48d5-bf55-475550783e8f)
 
 <br><br><br>
