@@ -116,9 +116,6 @@
 <br>
 
 ## 3. 시스템 구성도
-
-
- ![image](https://github.com/user-attachments/assets/71ac2f12-6fe5-4383-ad42-83a064f478d5)
  
 <div align="center">
  
