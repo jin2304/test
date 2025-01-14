@@ -81,6 +81,12 @@
 
 ![image](https://github.com/user-attachments/assets/6ba0bebb-89cc-4eb7-8898-8d35beedac65)
 
+<br>
+
+광고성 리뷰 게시글은 제품에 대해서 긍정적으로만 평을 하는 리뷰가 될 확률이 높음 
+-nl-
+실제 제품이나 서비스의 품질, 성능, 기능 등에 대한 객관적인 정보를 파악하기 어려움을 겪게 함 
+<br>
 
 
 ## 3. 시스템 구성도
