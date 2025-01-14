@@ -1,7 +1,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&height=250&color=gradient&text=인스타그램 게시글의&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성 수치 측정하는&descSize=30&reversal=false" style="width: 120%;">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ![image](https://github.com/user-attachments/assets/174d0aec-4760-4fb7-9327-aac0542e03f1)
 
