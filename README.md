@@ -1,7 +1,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=AD%20Cleaner&fontSize=90" style="width: 120%;" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=AD%20Cleaner&fontSize=90&fontColor=000000" style="width: 120%;" />
 
 ![image](https://github.com/user-attachments/assets/174d0aec-4760-4fb7-9327-aac0542e03f1)
 
