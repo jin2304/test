@@ -63,9 +63,9 @@
 ## 2. 프로젝트 배경 
 <br>
 
-![image](https://github.com/user-attachments/assets/4b70b79d-8289-4978-b18a-773611beb6c2)
 
 
+![image]()
 
 
 <br>
@@ -78,7 +78,7 @@
 `사례1)`
 <table align="center">
  <tr>
-  <td align="center"><img src="https://github.com/user-attachments/assets/05fc2d99-9a71-4ee0-b273-5ad35e7b4d63" width="300px;" alt=""></td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/91013c11-82b7-495e-a999-2978651ad161" width="300px;" alt=""></td>
  </tr>
  <tr>
   <td align="center"><b>
