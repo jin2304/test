@@ -1,7 +1,7 @@
 
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%AI%20시스템&descSize=30&reversal=false" style="width: 120%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false" style="width: 120%;">
 <!-- <br>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/3f6df515-9e11-4b63-b4e1-c35d22176721" style="width: 60%;">
