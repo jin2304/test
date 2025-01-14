@@ -1,5 +1,6 @@
 
 <br>
+![리뷰 게시글의 광고성 판단 수치를 측정하는 인공지능](https://github.com/user-attachments/assets/b6fbe691-1085-4853-9587-cc53610c7889)
 
 ![image](https://github.com/user-attachments/assets/174d0aec-4760-4fb7-9327-aac0542e03f1)
 
