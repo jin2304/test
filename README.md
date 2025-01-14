@@ -401,9 +401,16 @@
 ![image](https://github.com/user-attachments/assets/54b890b5-13fc-4928-b437-d831fafb4370)
 
 
+<bt>
+
+
+![image](https://github.com/user-attachments/assets/d825cb33-599e-4ec6-83d4-02abf3e5bd1b)
 
 
 
+![image](https://github.com/user-attachments/assets/efdcf972-1c0b-410d-b6d1-7c6567327a0c)
+
+<br>
 
 Step 1: Input Text:
  #광고 @origin_aminade 스킨 글로우 히알루론산 오리진 아미네이드(ORIGINAMINADE)는 안전하고 전문적인 원료로 건강과 아름다움을 모두 회복시키는 제품을 만드는 브랜드입니다. 아름다움을 위한 완벽한 준비, 당신만을 위해 준비된 아름다움을 선사합니다. 촉촉해진 ’느낌‘이  
@@ -438,19 +445,19 @@ Step 4: Tokenized Sequence:
 
 Step 5: Padded Sequence Shape: (1, 250)
 
-<br><br>
+<br>
 
 Step 6: Raw Prediction Output: [[0.00105652 0.9989435 ]]
 
-<br><br>
+<br>
 
 Step 7: Ad Probability: 99.89%, Non-Ad Probability: 0.11%
 
-<br><br>
+<br>
 
 Step 8: Label: 광고성 게시글
 
-<br><br>
+<br>
 
 Step 9: Important Words:
  [{'word': '전문', 'score': 0.38460084795951843, 'dictionary_score': 3.6302797896105403}, {'word': '광고', 'score': 0.2831777036190033, 'dictionary_score': 207.87481851059118}, {'word': '모두', 'score': 0.01778349094092846, 'dic
@@ -461,13 +468,6 @@ ore': 2.101467823242956}, {'word': '합니다', 'score': 0.0026372892316430807, 
 1.4655985870994641}, {'word': '1', 'score': 0.0004101219237782061, 'dictionary_score': 3.1905765478164483}]
 
 <br><br>
-
-![image](https://github.com/user-attachments/assets/d825cb33-599e-4ec6-83d4-02abf3e5bd1b)
-
-
-
-![image](https://github.com/user-attachments/assets/efdcf972-1c0b-410d-b6d1-7c6567327a0c)
-
 
 
 ![image](https://github.com/user-attachments/assets/c0cdb36e-75eb-4635-ae1b-d7e254065184)
