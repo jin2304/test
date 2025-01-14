@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=AD%20Cleaner&fontSize=90&fontColor=000000" style="width: 120%;" />
 
-![image](https://github.com/user-attachments/assets/174d0aec-4760-4fb7-9327-aac0542e03f1)
+![image](https://github.com/user-attachments/assets/5aea77a5-9083-48de-8812-625505e8f0be)
 
 <br>
 
