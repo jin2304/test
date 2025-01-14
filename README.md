@@ -48,7 +48,7 @@
 
 
 <br><br>
-## 2. 프로젝트 배경(문제정의) 
+## 2. 프로젝트 배경 
 <br>
 
 ![image](https://github.com/user-attachments/assets/4b70b79d-8289-4978-b18a-773611beb6c2)
