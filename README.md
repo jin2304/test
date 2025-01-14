@@ -5,6 +5,10 @@
 
 <br><br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=AD%20Cleaner&fontSize=90&fontColor=ffffff" style="width: 120%;" />
+
+
+
 ![image](https://github.com/user-attachments/assets/5aea77a5-9083-48de-8812-625505e8f0be)
 
 <br>
