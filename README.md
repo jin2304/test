@@ -30,7 +30,7 @@
 > **팀 Skrr** <br>
 > **팀 로켓단** <br>
 > **팀 온라인청소부** <br>
-> **팀 세 얼간이** <br>
+> **팀 세 얼간이**  한표<br>
 
 <table align="center">
  <tr>
@@ -52,7 +52,8 @@
 <br>
 
 ![image](https://github.com/user-attachments/assets/4b70b79d-8289-4978-b18a-773611beb6c2)
-![image](https://github.com/user-attachments/assets/d11866b4-9b7e-4f98-8399-f8e8c83086a8)
+![image](https://github.com/user-attachments/assets/772f75f8-79ce-4b22-bc49-af97bc5bc986)
+
 
 
 <br>
