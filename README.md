@@ -397,13 +397,10 @@
 ![image](https://github.com/user-attachments/assets/81aaf3af-f57a-4eb4-84f2-47c7aa076e55)
 
 
-![image](https://github.com/user-attachments/assets/b07a58f5-511c-4e17-8e44-b364e001b3e0)
-
-
 
 ![image](https://github.com/user-attachments/assets/54b890b5-13fc-4928-b437-d831fafb4370)
 
-![image](https://github.com/user-attachments/assets/efdcf972-1c0b-410d-b6d1-7c6567327a0c)
+
 
 
 
@@ -465,6 +462,14 @@ ore': 2.101467823242956}, {'word': '합니다', 'score': 0.0026372892316430807, 
 
 <br><br>
 
+![image](https://github.com/user-attachments/assets/d825cb33-599e-4ec6-83d4-02abf3e5bd1b)
+
+
+
+![image](https://github.com/user-attachments/assets/efdcf972-1c0b-410d-b6d1-7c6567327a0c)
+
+
+
 ![image](https://github.com/user-attachments/assets/c0cdb36e-75eb-4635-ae1b-d7e254065184)
 
 
@@ -472,7 +477,7 @@ ore': 2.101467823242956}, {'word': '합니다', 'score': 0.0026372892316430807, 
 
 
 
-![image](https://github.com/user-attachments/assets/d825cb33-599e-4ec6-83d4-02abf3e5bd1b)
+
 
 
 
