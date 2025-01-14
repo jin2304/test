@@ -63,11 +63,7 @@
 ## 2. 프로젝트 배경 
 <br>
 
-
-
-![연구배경](https://github.com/user-attachments/assets/34c72d64-6b74-451b-bc8f-efef6b354a59)
-
-
+![연구배경](https://github.com/user-attachments/assets/43778baf-42e4-4ab0-a1f2-52096a36b5b6)
 
 <br>
 
