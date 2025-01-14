@@ -1,7 +1,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=인스타그램의%20게시글의-nl-광고성%20수치를&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=인스타그램의%20게시글의-nl-광고성%20수치를&fontSize=90" style="width: 120%;" />
 
 ![image](https://github.com/user-attachments/assets/174d0aec-4760-4fb7-9327-aac0542e03f1)
 
