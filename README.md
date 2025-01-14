@@ -125,6 +125,15 @@
 
 ## 3. 시스템 구성도
  
+<br>
+
+![system structure](https://github.com/user-attachments/assets/781d6123-9f1d-48d5-bf55-475550783e8f)
+
+![image](https://github.com/user-attachments/assets/55915150-c339-4cb6-9ec9-a684348d80f4)
+
+<br>
+
+
 <div align="center">
  
 | 구분         | 사양  |
@@ -135,11 +144,6 @@
 | GPU          | NVIDIA Geforce RTX 3070 Ti     | 
 
 </div>
-
-<br>
-
-![system structure](https://github.com/user-attachments/assets/781d6123-9f1d-48d5-bf55-475550783e8f)
-
 <br><br><br>
 
 
