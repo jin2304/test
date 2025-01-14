@@ -89,7 +89,7 @@
 
 <table align="center">
  <tr>
-  <td align="center"><img src="https://github.com/user-attachments/assets/4b70b79d-8289-4978-b18a-773611beb6c2" alt=""></td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/c59fd487-7ffa-4b10-ae13-3e4ea01b12b9" alt=""></td>
  </tr>
  <tr>
   <td align="center"><b>`사례1)` <br>
