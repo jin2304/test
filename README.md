@@ -143,12 +143,11 @@
  
 <br>
 
-![system structure](https://github.com/user-attachments/assets/781d6123-9f1d-48d5-bf55-475550783e8f)
-
 ![image](https://github.com/user-attachments/assets/55915150-c339-4cb6-9ec9-a684348d80f4)
 
 <br>
 
+### 시스템 환경
 
 <div align="center">
  
@@ -174,7 +173,7 @@
 
 ![연구 절차](https://github.com/user-attachments/assets/81b52ddd-8608-414b-9130-6ae07f7d7a3b)
 
-
+<br><br>
 
 ## 4-1. 데이터 수집(크롤링) <br>
 - 데이터 수집이란 광고성을 판별 및 측정하는 인공지능 모델이 학습하는 데 필요한 데이터를 수집하는 과정.
