@@ -459,7 +459,7 @@ Step 8: Label: 광고성 게시글
 
 <br>
 
-Step 9: Important Words:
+Step 9: Important Words: <br>
  [{'word': '전문', 'score': 0.38460084795951843, 'dictionary_score': 3.6302797896105403}, {'word': '광고', 'score': 0.2831777036190033, 'dictionary_score': 207.87481851059118}, {'word': '모두', 'score': 0.01778349094092846, 'dic
 tionary_score': 1.5930014481339185}, {'word': '생기', 'score': 0.008300527930259705, 'dictionary_score': 1.3414834902100665}, {'word': '제품', 'score': 0.006821709685027599, 'dictionary_score': 38.07590625037378}, {'word': '진행
 ', 'score': 0.004158413037657738, 'dictionary_score': 5.355287769408278}, {'word': '합니다', 'score': 0.003348119091242552, 'dictionary_score': 11.038324952081545}, {'word': '상품', 'score': 0.0028569616843014956, 'dictionary_sc
