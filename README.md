@@ -85,7 +85,8 @@
 
 ### 2-1. 문제정의
 
-![image](https://github.com/user-attachments/assets/6ba0bebb-89cc-4eb7-8898-8d35beedac65)
+![문제정의](https://github.com/user-attachments/assets/2991e930-5fb4-43df-8773-c0a46015b6f6)
+
 
 
 #### 1)  정보의 신뢰성 저하
