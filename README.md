@@ -113,7 +113,7 @@
 <br>
 
 
-### 2-1. 문제정의
+## 2-1. 문제정의
 
 ![문제정의](https://github.com/user-attachments/assets/2991e930-5fb4-43df-8773-c0a46015b6f6)
 
@@ -145,13 +145,13 @@
 
 ## 3. 시스템 설계 <br>
  
-### 3-1. 시스템 구성도
+## 3-1. 시스템 구성도
 
 ![image](https://github.com/user-attachments/assets/55915150-c339-4cb6-9ec9-a684348d80f4)
 
 <br>
 
-### 3-2. 시스템 환경
+## 3-2. 시스템 환경
 
 <div align="center">
  
