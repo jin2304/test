@@ -120,7 +120,7 @@
 
  ![image](https://github.com/user-attachments/assets/71ac2f12-6fe5-4383-ad42-83a064f478d5)
 <div align="center">
-| 구분 | 사양  |
+| 구분         | 사양  |
 |--------------|--------------------------------|
 | 저작언어     | Python 3.7.16                  | 
 | 프레임워크   | Pycharm                        | 
