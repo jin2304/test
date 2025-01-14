@@ -1,7 +1,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ![image](https://github.com/user-attachments/assets/174d0aec-4760-4fb7-9327-aac0542e03f1)
 
