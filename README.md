@@ -183,7 +183,7 @@
 
 <br><br>
 
-![image](https://github.com/user-attachments/assets/a362b5a8-20ee-4e0e-b184-4a3b87caf64f)
+![image](https://github.com/user-attachments/assets/8c56a315-d200-4f35-adf7-ed76b8f02c1c)
 
 
 ## 4-1. 데이터 수집(크롤링) <br>
