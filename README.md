@@ -108,7 +108,10 @@
 <br>
 
 
-- 출처: https://news.mju.ac.kr/news/articleView.html?idxno=10076&utm_source=chatgpt.com
+출처
+- https://kostat.go.kr/board.es?mid=a10301010000&bid=241&act=view&list_no=430209
+- https://news.mju.ac.kr/news/articleView.html?idxno=10076
+- https://www.kpf.or.kr/front/research/consumerDetail.do?seq=592324
 <br>
 
 
