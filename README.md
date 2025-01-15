@@ -163,13 +163,13 @@
 | GPU          | NVIDIA Geforce RTX 3070 Ti     | 
 
 </div>
-<br><br><br>
+<br>
 
 
 
 
 
-
+<br><br>
 ## 4. 시스템 구현 <br>
 
 ## 구현 절차
