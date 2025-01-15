@@ -402,10 +402,9 @@
 <br>
 
 
-- 다음은 인스타그램 리뷰 게시글의 광고성 단어를 상세 분석하는 과정
+- 다음은 인스타그램 리뷰 게시글의 광고성 단어를 상세 분석하는 과정 <br>
+
 ![image](https://github.com/user-attachments/assets/d825cb33-599e-4ec6-83d4-02abf3e5bd1b)
-
-
 
 ![image](https://github.com/user-attachments/assets/efdcf972-1c0b-410d-b6d1-7c6567327a0c)
 
