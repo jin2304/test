@@ -482,13 +482,6 @@ ore': 2.101467823242956}, {'word': '합니다', 'score': 0.0026372892316430807, 
 'score': 0.001970479264855385, 'dictionary_score': 1.3414834902100665}, {'word': '가능', 'score': 0.0013945826794952154, 'dictionary_score': 2.668462150153715}, {'word': '00', 'score': 0.0004949333961121738, 'dictionary_score': 
 1.4655985870994641}, {'word': '1', 'score': 0.0004101219237782061, 'dictionary_score': 3.1905765478164483}]
 
-<br><br>
-
-
-![image](https://github.com/user-attachments/assets/c0cdb36e-75eb-4635-ae1b-d7e254065184)
-
-
-![image](https://github.com/user-attachments/assets/2af4dfc2-9f91-4cd2-ae59-6418512f020e)
 
 
 <br><br><br>
