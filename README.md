@@ -37,6 +37,11 @@
     <td align="center">🌳<a href="https://github.com/sue06004"><b>김수훈</b></td>
     <td align="center">💧<a href="https://github.com/jimnyy"><b>김찬종</b></td>
   </tr>
+   <tr>
+    <td align="center">🔥<a href="https://github.com/dyun23"><b>서진영</b></td>
+    <td align="center">🌳<a href="https://github.com/sue06004"><b>김수훈</b></td>
+    <td align="center">💧<a href="https://github.com/jimnyy"><b>김찬종</b></td>
+  </tr>
   </table>
 <br><br>
 
