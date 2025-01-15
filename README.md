@@ -3,24 +3,9 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false" style="width: 120%;">
 
-<!-- <br>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/3f6df515-9e11-4b63-b4e1-c35d22176721" style="width: 60%;">
-</div> -->
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=AD%20Cleaner&fontSize=90&fontColor=000000" style="width: 120%;" />
 
 <br><br><br>
 
-
-
-
-
-![image](https://github.com/user-attachments/assets/5aea77a5-9083-48de-8812-625505e8f0be)
-
-<br>
 
 ## 프로젝트 개요 
 - 소셜 네트워크 서비스 중 하나인 인스타그램에서 작성된 리뷰 게시글의 광고성 여부를 판별하고, 수치화하여 사용자에게 시각적으로 제공하는 BiLSTM-Attention 기반 인공지능 시스템이다. 최근 전자상거래와 소셜커머스의 확산으로 인해 SNS를 통한 광고성 리뷰 게시글이 증가하고 있으며, 이러한 게시글은 소비자들이 신뢰할 수 있는 정보를 얻는 데 방해요인이 되고 있다. 특히, SNS 기반 소셜 커머스에서는 협찬이나 대가성으로 작성된 리뷰가 적절히 표기되지 않아 소비자들이 이를 일반 리뷰로 오인하는 사례가 빈번하다. 이는 허위 및 과대광고로 인한 경제적 피해와 사용자 만족도 저하로 이어질 수 있다.
@@ -70,8 +55,8 @@
 <br>
 
 
+`사례1)` 
 <table align="center">
- `사례1)` 
  <tr>
   <td align="center"><img src="https://github.com/user-attachments/assets/91013c11-82b7-495e-a999-2978651ad161" width="300px;" height="400px;" alt=""></td>
  </tr>
@@ -82,9 +67,10 @@
  </tr>
 </table>
 
+<br>
 
-<table align="center">
 `사례2)` 
+<table align="center">
  <tr>
   <td align="center"><img src="https://github.com/user-attachments/assets/0478d397-7e1d-4715-ac2d-6ba39c390d91" width="300px;" height="400px;" alt=""></td>
  </tr>
