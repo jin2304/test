@@ -223,11 +223,7 @@
 
 ## 4-2. 데이터 정제 <br>
 
-![데이터 정제](https://github.com/user-attachments/assets/70c9b7e5-840b-40c1-aefd-03851c66ab40)
-
-
-
-![image](https://github.com/user-attachments/assets/ad0a0207-6902-4403-92ab-fcccda3de623)
+![데이터 정제](https://github.com/user-attachments/assets/ad0a0207-6902-4403-92ab-fcccda3de623)
 
 
 - 데이터 정제과정에서는 수집한 리뷰 게시글을 분석하기 위해 불필요하거나 잘못된 요소를 제거하고, 광고성 판별 및 수치화에 필요한 핵심 데이터를 추출하는 과정.
