@@ -186,8 +186,7 @@
 
 ## 4-1. 데이터 수집(크롤링) <br>
 
-![image](https://github.com/user-attachments/assets/b16842a4-c253-4e48-aba0-4265472cac23)
-
+![image](https://github.com/user-attachments/assets/f0c49ed1-75ed-4fbb-b533-91a7a6a1ec58)
 
 - 데이터 수집이란 광고성을 판별 및 측정하는 인공지능 모델이 학습하는 데 필요한 데이터를 수집하는 과정.
 - 본 프로젝트에서는 데이터 수집을 "웹 크롤링"과 "Github에서 데이터 수집" 2가지 방법으로 진행 하였음.
