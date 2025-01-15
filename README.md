@@ -396,6 +396,8 @@
 
 - 다음은 인스타그램 리뷰 게시글의 광고성 단어를 상세 분석하는 과정 <br>
 
+![리뷰 게시글의 광고성 판단 수치를 측정하는 인공지능 (12)](https://github.com/user-attachments/assets/80f6705e-9134-4859-b01a-94eaaf38b441)
+
 ![image](https://github.com/user-attachments/assets/d825cb33-599e-4ec6-83d4-02abf3e5bd1b)
 
 ![image](https://github.com/user-attachments/assets/efdcf972-1c0b-410d-b6d1-7c6567327a0c)
