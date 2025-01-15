@@ -71,7 +71,7 @@
 
 
 <table align="center">
- ### 사례1) 
+ `사례1)` 
  <tr>
   <td align="center"><img src="https://github.com/user-attachments/assets/91013c11-82b7-495e-a999-2978651ad161" width="300px;" height="400px;" alt=""></td>
  </tr>
@@ -84,7 +84,7 @@
 
 
 <table align="center">
- #### 사례2) 
+`사례2)` 
  <tr>
   <td align="center"><img src="https://github.com/user-attachments/assets/0478d397-7e1d-4715-ac2d-6ba39c390d91" width="300px;" height="400px;" alt=""></td>
  </tr>
