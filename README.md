@@ -21,6 +21,7 @@
 <br><br>
 ## 1. 팀원 및 역할 분담
 
+## 1-1. 팀원 소개
 
 <table align="center">
  <tr>
@@ -34,12 +35,14 @@
     <td align="center">💧<a href="https://github.com/jimnyy"><b>김찬종</b></td>
   </tr>
    <tr>
-    <td align="center">🔥<a href="https://github.com/dyun23"><b>서진영</b></td>
+    <td align="center">🔥<a href="https://github.com/dyun23"><b>데이터 수집<br>인공지능 모델링</b></td>
     <td align="center">🌳<a href="https://github.com/sue06004"><b>김수훈</b></td>
     <td align="center">💧<a href="https://github.com/jimnyy"><b>김찬종</b></td>
   </tr>
   </table>
 <br><br>
+
+
 
 
 <br><br>
