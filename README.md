@@ -72,14 +72,14 @@
 `사례1)`
 <table align="center">
  <tr>
-  <td align="center"><img src="https://github.com/user-attachments/assets/91013c11-82b7-495e-a999-2978651ad161" width="200px;" alt=""></td>
-  <td align="center"><img src="https://github.com/user-attachments/assets/0478d397-7e1d-4715-ac2d-6ba39c390d91" width="200px;" alt=""></td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/91013c11-82b7-495e-a999-2978651ad161" width="300px;" alt=""></td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/0478d397-7e1d-4715-ac2d-6ba39c390d91" width="300px;" alt=""></td>
  </tr>
  <tr>
   <td align="center"><b>
 대학생 A 씨(21)는 일반인 후기가 많은 다이어트 보조제 광고를 보고 구매해서 복용한 뒤 복통을 겪었다며 <br>해당 광고 게시글에 '먹고 나서 배가 아팠다'라는 댓글을 달았지만 얼마 뒤 게시물이 삭제된 걸 목격했다고 말했다. <br>이어서 복통에 대한 댓글을 작성할 때 '나만 이 제품과 안맞아서 그런가'라는 생각이 들어 업체에 연락을 하지 않았다고 덧붙였다.</b></td>
   <td align="center"><b>
-직장인 B씨(21)는 평소 즐겨보던 유튜버가 액상차를 먹고 붓기제거와 독소배출 효과를 봤다는 영상을 보고 해당 제품을 구매했다. 하지만 이는 전혀 효과가 없었고, 이후 인터넷 기사에서 허위, 과장 광고로 적발된 제품에 해당 제품이 있는 것을 확인하고 배신감이 들었다고 전했다.
+직장인 B씨(21)는 평소 즐겨보던 유튜버가 액상차를 먹고 붓기제거와 독소배출 효과를 봤다는 영상을 보고 해당 제품을 구매했다. <br>하지만 이는 전혀 효과가 없었고, 이후 인터넷 기사에서 허위, 과장 광고로 적발된 제품에 해당 제품이 있는 것을 확인하고 배신감이 들었다고 전했다.
 </b></td>
  </tr>
 </table>
