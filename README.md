@@ -399,7 +399,7 @@
 ![image](https://github.com/user-attachments/assets/54b890b5-13fc-4928-b437-d831fafb4370)
 
 
-<br><br><br>
+<br><br>
 
 
 - 다음은 인스타그램 리뷰 게시글의 광고성 단어를 상세 분석하는 과정 <br>
