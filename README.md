@@ -183,10 +183,12 @@
 
 <br><br>
 
-![image](https://github.com/user-attachments/assets/8c56a315-d200-4f35-adf7-ed76b8f02c1c)
-
 
 ## 4-1. 데이터 수집(크롤링) <br>
+
+![image](https://github.com/user-attachments/assets/b16842a4-c253-4e48-aba0-4265472cac23)
+
+
 - 데이터 수집이란 광고성을 판별 및 측정하는 인공지능 모델이 학습하는 데 필요한 데이터를 수집하는 과정.
 - 본 프로젝트에서는 데이터 수집을 "웹 크롤링"과 "Github에서 데이터 수집" 2가지 방법으로 진행 하였음.
 - 웹 크롤링 방법에서는 파이썬의 Selenium 라이브러리와 ChromeDriver를 이용하여 인스타그램에서 웹 크롤링을 수행하여 '광고성 게시글' 5346개와 '일반 리뷰 게시글' 4146개 게시글 해시태그와 게시글 텍스트 데이터를 수집하였음.
