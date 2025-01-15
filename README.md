@@ -38,7 +38,7 @@
     <td align="center">💧<a href="https://github.com/jimnyy"><b>김찬종</b></td>
   </tr>
    <tr>
-    <td align="center"><b>팀장,데이터 수집<br>인공지능 모델링</b></td>
+    <td align="center"><b>팀장, 데이터 수집<br>인공지능 모델링</b></td>
     <td align="center"><b>데이터 전처리<br>인공지능 모델링</b></td>
     <td align="center"><b>데이터 정제<br>인공지능 모델링</b></td>
   </tr>
