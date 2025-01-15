@@ -69,7 +69,7 @@
 
 <br>
 
-`사례1)`
+      `사례1)`
 <table align="center">
  <tr>
   <td align="center"><img src="https://github.com/user-attachments/assets/91013c11-82b7-495e-a999-2978651ad161" width="300px;" alt=""></td>
