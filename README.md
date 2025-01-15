@@ -56,7 +56,7 @@
 
 
 `사례1)` 
-<table align="left">
+<table align="center">
  <tr>
   <td align="center"><img src="https://github.com/user-attachments/assets/91013c11-82b7-495e-a999-2978651ad161" width="300px;" height="400px;" alt=""></td>
  </tr>
@@ -70,7 +70,7 @@
 <br>
 
 `사례2)` 
-<table align="left">
+<table align="center">
  <tr>
   <td align="center"><img src="https://github.com/user-attachments/assets/0478d397-7e1d-4715-ac2d-6ba39c390d91" width="300px;" height="400px;" alt=""></td>
  </tr>
