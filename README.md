@@ -2,6 +2,7 @@
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false" style="width: 120%;">
+
 <!-- <br>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/3f6df515-9e11-4b63-b4e1-c35d22176721" style="width: 60%;">
@@ -39,10 +40,7 @@
 
 <br><br>
 ## 1. 팀원 및 역할 분담
-> **팀 Skrr** <br>
-> **팀 로켓단** <br>
-> **팀 온라인청소부** <br>
-> **팀 세 얼간이**  한표<br>
+
 
 <table align="center">
  <tr>
@@ -60,7 +58,7 @@
 
 
 <br><br>
-## 2. 프로젝트 배경 
+## 2. 프로젝트 배경(문제정의)
 <br>
 
 ![연구배경](https://github.com/user-attachments/assets/43778baf-42e4-4ab0-a1f2-52096a36b5b6)
