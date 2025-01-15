@@ -1,7 +1,8 @@
 
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false" style="width: 120%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false&fontColor=ffffff" style="width: 120%;">
+
 
 <br>
 
