@@ -24,8 +24,6 @@
 
 ## 1. 팀원 및 역할 분담
 
-## 1-1. 팀원 소개
-
 <table align="center">
  <tr>
     <td align="center"><a href="https://github.com/dyun23"><img src="https://static.wikia.nocookie.net/pokemon/images/5/5e/%ED%8C%8C%EC%9D%B4%EB%A6%AC_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.png/revision/latest/scale-to-width-down/1200?cb=20170404233005&path-prefix=ko" width="150px;" alt=""></td>
