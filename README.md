@@ -2,7 +2,7 @@
 ## 문제  
 - 고객이 **취소된 주문 목록**을 조회하려고 할 때, **취소된 주문 목록**이 제대로 조회되지 않는 문제 발생.
 
-### 주문 검색 (고객이 취소된 주문 목록을 조회) api
+#### 주문 검색 (고객이 취소된 주문 목록을 조회) api
 - GET /api/v1/orders/search?orderStatus=ORDER_CANCELED&page=0&size=10&sort=createdAt,asc
 
 
