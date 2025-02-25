@@ -42,7 +42,7 @@
 
 ![image](https://github.com/user-attachments/assets/3d8011da-36aa-4e19-b9c2-fc6dd5ca3b09)
 
-<br>
+<br><br>
 
 ## 기존 로직
 - **주문 삭제** cancel() 메서드에서 주문의 상태 값 변경 및 논리적 삭제가 작업이 동시에 적용됨.
