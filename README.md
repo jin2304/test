@@ -21,6 +21,8 @@
 
 - 이로 인해, 고객이 취소한 주문 목록(상태 값이 `ORDER_CANCELED`)을 조회할 때, DB에서는 논리적으로 삭제된 주문이므로 **조회되지 않는 문제** 발생.  
 
+![image](https://github.com/user-attachments/assets/1caf7e67-fcc2-4be4-98b8-9e32456175d3)
+
 <br>
 
 ## 해결 방법  
