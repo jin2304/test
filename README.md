@@ -1,8 +1,10 @@
 
 ## 문제  
 - 고객이 **취소한 주문 목록**을 조회하려고 할 때, **취소된 주문 목록**이 제대로 조회되지 않는 문제 발생.
-- 
-![image](https://github.com/user-attachments/assets/9258f786-13ca-4b18-8f1a-2d3c0e80294e)
+  
+![image](https://github.com/user-attachments/assets/3d8011da-36aa-4e19-b9c2-fc6dd5ca3b09)
+
+
 
 <br>
 
