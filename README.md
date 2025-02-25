@@ -1,3 +1,12 @@
+<Br>
+
+## 원인
+  -기존 주문 취소 로직에서는 “주문 삭제”와 “주문 취소” 비즈니스 로직을 동일한 기능으로 판단하여 2가지 작업을 동시에 수행 하였음.
+  -1) 주문을 취소할 때, 주문의 상태 값을 취소 상태로 바꿈.
+  -2) 주문을 취소할 때, addDeletedField() 메서드를 통해 주문 목록을 DB에서 논리적 삭제.
+  - 때문에 고객이 취소한 주문 목록(상태 값이 “ORDER_CANCELED”)을 조회 할려고할 때, DB에서는 논리적으로 삭제되었으므로 올바르게 조회 되지
+
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff7eb3,100:87CEEB&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false&fontColor=ffffff" style="width: 120%;">
@@ -47,12 +56,6 @@
 
 
 
-## 원인
-  - 기존 주문 취소 로직에서는 “주문 삭제”와 “주문 취소” 비즈니스 로직을 동일한 기능으로 판단하여 2가지 작업을 동시에 수행 하였음.
-    1) 주문을 취소할 때, 주문의 상태 값을 취소 상태로 바꿈.
-    2) 주문을 취소할 때, addDeletedField() 메서드를 통해 주문 목록을 DB에서 논리적 삭제.
-
-  - 때문에 고객이 취소한 주문 목록(상태 값이 “ORDER_CANCELED”)을 조회 할려고할 때, DB에서는 논리적으로 삭제되었으므로 올바르게 조회 되지
 
 
 <br><br>
