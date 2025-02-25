@@ -1,8 +1,14 @@
 
 ## 문제  
-- 고객이 **취소한 주문 목록**을 조회하려고 할 때, **취소된 주문 목록**이 제대로 조회되지 않는 문제 발생.
+- 고객이 **취소된 주문 목록**을 조회하려고 할 때, **취소된 주문 목록**이 제대로 조회되지 않는 문제 발생.
+
+  ![image](https://github.com/user-attachments/assets/d1e757e3-c4cc-4a46-b920-0426d92c4a75)
+
+
+![image](https://github.com/user-attachments/assets/876d5f37-949b-45b7-83e7-3a4fc2159be3)
+
   
-![image](https://github.com/user-attachments/assets/3d8011da-36aa-4e19-b9c2-fc6dd5ca3b09)
+
 
 
 
@@ -31,8 +37,9 @@
      - **음식점 사장님** 입장에서 주문을 **접수할지, 취소할지** 결정할 때 사용.  
   2. **주문 삭제 로직:**  
      - **관리자** 입장에서 데이터를 DB에서 **논리적 삭제**.할때 사용
-- 비즈니스 로직을 **명확하게 분리**함으로써 고객이 취소한 주문 목록도 올바르게 조회할 수 있도록 개선.  
+- 비즈니스 로직을 **명확하게 분리**함으로써 고객이 취소된 주문 목록도 올바르게 조회할 수 있도록 개선.  
 
+![image](https://github.com/user-attachments/assets/3d8011da-36aa-4e19-b9c2-fc6dd5ca3b09)
 
 <br>
 
