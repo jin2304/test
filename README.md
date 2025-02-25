@@ -2,13 +2,13 @@
 ## 문제  
 - 고객이 **취소한 주문 목록**을 조회하려고 할 때, **취소된 주문 목록**이 제대로 조회되지 않는 문제 발생.  
 
-
+<br>
 
 ## 해결하려 접근한 방법  
 - 기존 주문 취소 로직에 **논리 오류**가 있는지 분석.  
 - **주문 취소**와 **주문 삭제**의 비즈니스 로직이 혼재되어 있는지 확인.  
 
-
+<br>
 
 ## 원인  
 - 기존 주문 취소 로직에서는 **"주문 삭제"** 와 **"주문 취소"** 를 동일한 기능으로 판단하여 **2가지 작업을 동시에 수행**.  
@@ -17,10 +17,9 @@
   2. **논리적 삭제:**  
      - `addDeletedField()` 메서드를 통해 주문 목록을 DB에서 **논리적 삭제**.  
 
-- 이로 인해, 고객이 취소한 주문 목록(상태 값이 `ORDER_CANCELED`)을 조회할 때,  
-  - DB에서는 논리적으로 삭제된 주문이므로 **조회되지 않는 문제** 발생.  
+- 이로 인해, 고객이 취소한 주문 목록(상태 값이 `ORDER_CANCELED`)을 조회할 때, DB에서는 논리적으로 삭제된 주문이므로 **조회되지 않는 문제** 발생.  
 
-
+<br>
 
 ## 해결 방법  
 - 기존 주문 취소 비즈니스 로직을 **"주문 삭제"** 와 **"주문 취소"** 로 **별도의 기능**으로 분리.  
@@ -55,6 +54,35 @@ public void cancel() {
 
 
 
+- 수정된 로직
+```java
+
+    // 주문 취소
+    public void cancel() {
+        // 주문 생성 후 5분 이내에만 취소 가능
+        if (!isCancelUpdate()) {
+            throw new CustomException(OrderErrorCode.CANCEL_UPDATE_TIME_EXCEEDED);
+        }
+
+        // 주문 취소 상태로 수정
+        this.orderStatus = OrderStatus.ORDER_CANCELED;
+    }
+    
+    
+    
+    /**
+     * 주문 삭제
+     */
+    public void deleteOrder(Long loginUserId) {
+        // 주문 논리적 삭제 처리
+        this.addDeletedField(loginUserId);
+
+        // 주문 상품 논리적 삭제 처리
+        for (OrderProduct orderProduct : orderProductList) {
+            orderProduct.addDeletedField(loginUserId);
+        }
+    }
+```
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff7eb3,100:87CEEB&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false&fontColor=ffffff" style="width: 120%;">
