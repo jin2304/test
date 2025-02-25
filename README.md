@@ -51,39 +51,45 @@ public void cancel() {
         orderProduct.addDeletedField(user.getId());
     }
 }
-
-
-
-- 수정된 로직
-```java
-
-    // 주문 취소
-    public void cancel() {
-        // 주문 생성 후 5분 이내에만 취소 가능
-        if (!isCancelUpdate()) {
-            throw new CustomException(OrderErrorCode.CANCEL_UPDATE_TIME_EXCEEDED);
-        }
-
-        // 주문 취소 상태로 수정
-        this.orderStatus = OrderStatus.ORDER_CANCELED;
-    }
-    
-    
-    
-    /**
-     * 주문 삭제
-     */
-    public void deleteOrder(Long loginUserId) {
-        // 주문 논리적 삭제 처리
-        this.addDeletedField(loginUserId);
-
-        // 주문 상품 논리적 삭제 처리
-        for (OrderProduct orderProduct : orderProductList) {
-            orderProduct.addDeletedField(loginUserId);
-        }
-    }
 ```
-<br>
+
+
+## 수정된 로직  
+- **주문 취소**와 **주문 삭제**를 **별도의 메서드**로 분리하여 각각의 역할을 명확하게 정의.  
+- `cancel()` 메서드: **주문 상태**만 `ORDER_CANCELED`로 변경. (취소)  
+- `deleteOrder()` 메서드: **논리적 삭제**만 처리. (삭제)  
+- **취소**는 고객이 주문을 취소할 때 사용, **삭제**는 관리자가 데이터를 논리적으로 삭제할 때 사용.  
+
+---
+
+### 수정된 로직: `cancel()` 및 `deleteOrder()` 메서드  
+
+```java
+// 주문 취소
+public void cancel() {
+    // 주문 생성 후 5분 이내에만 취소 가능
+    if (!isCancelUpdate()) {
+        throw new CustomException(OrderErrorCode.CANCEL_UPDATE_TIME_EXCEEDED);
+    }
+
+    // 주문 취소 상태로 수정
+    this.orderStatus = OrderStatus.ORDER_CANCELED;
+}
+
+
+/**
+ * 주문 삭제
+ */
+public void deleteOrder(Long loginUserId) {
+    // 주문 논리적 삭제 처리
+    this.addDeletedField(loginUserId);
+
+    // 주문 상품 논리적 삭제 처리
+    for (OrderProduct orderProduct : orderProductList) {
+        orderProduct.addDeletedField(loginUserId);
+    }
+}
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff7eb3,100:87CEEB&text=AD%20Cleaner&fontSize=60&fontAlignY=30&animation=fadeIn&rotate=0&desc=광고성%20수치%20측정%20AI%20시스템&descSize=30&reversal=false&fontColor=ffffff" style="width: 120%;">
 
