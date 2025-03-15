@@ -68,7 +68,42 @@
    - 메시징 시스템 (Kafka, RabbitMQ 등)
    - Security & Authentication: 인증/인가 처리
 
-![image](https://github.com/user-attachments/assets/07a8e916-8151-4927-a581-2210e8a01e5b)
+com.example.myapp
+├── application
+│   ├── service
+│   │   ├── OrderService.java
+│		│		├── UserService.java
+│   │   └── OrderMessageService.java
+│   ├── dto
+│   │   └── OrderDTO.java
+├── domain
+│   ├── model
+│   │   ├── Order.java
+│   │   ├── Product.java
+│   │   └── ValueObject.java
+│   ├── repository
+│   │   └── OrderRepository.java
+│   └── service
+│       └── OrderDomainService.java
+├── infrastructure
+│   ├── repository
+│   │   ├── JpaOrderRepository.java
+│   │   ├── OrderRepositoryImpl.java
+│   │   └── OrderQueryDSLRepositoryImpl.java
+│   ├── client
+│   │   └── UserClient.java
+│   ├── configuration
+│   │   └── DatabaseConfig.java
+│   └── messaging
+│				├──	OrderMessageConsumer.java
+│       └── OrderMessageProducer.java
+│
+└── presentation
+    ├── controller
+    │   └── OrderController.java
+    └── request
+        └── OrderRequest.java
+
 
 
 
