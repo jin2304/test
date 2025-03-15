@@ -30,9 +30,12 @@
 
 
 ## 도메인형 계층 구조, 3계층 vs 4계층
- - 하지만 도메인형 구조에서도 크게 3계층 구조와 4계층 구조 가 존재한다.
- - 3계층 구조는 이전에 잘 사용하는 controller, service, repository로 3계층을 일반적으로 사용하였다
- - 4계층 구조는 
+ - 도메인형 구조에서는 크게 3계층 구조와 4계층 구조가 존재한다.
+   
+ - 3계층 구조는 일반적으로 잘 사용헀던 controller, service, repository로 계층을 구성
+ - 4계층 구조는 기존 3계층에서 인프라 계층(infrastructure 계층)을 추가한 구조
+ - MSA 구조에서는 서비스들이 분리되어 있기 때문에? 외부 계층과 소통하기 위한 패키지를 따로 구성
+ - Infrastructure 계층은 데이터베이스, 외부 API, 메시징 시스템, 파일 시스템 등과 같은 기술적인 세부 사항을 담당하는 계층이다.
 
 
 
@@ -42,8 +45,8 @@
 
 
 
-
-
+https://dev-coco.tistory.com/166
+https://velog.io/@ogu1208/Spring-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0
 
 <br>
 
