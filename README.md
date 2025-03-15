@@ -2,7 +2,7 @@
 
 ## 계층형 구조 vs 도메인형 구조
 
- ###1. 계층형 구조(Layered Architecture):
+ #### 1. 계층형 구조(Layered Architecture):
       - Controller, Service, Repository 등 처럼 계층형으로 패키지를 구성하는 방식
 
    
