@@ -46,8 +46,9 @@
  - MSA 구조에서는 각 서비스들이 독립적으로 운영되므로 서로 네트워크 통신을 통해 데이터를 주고받아야 하며, 이를 담당하는 계층을 분리하는 것이 필요함.
  - Infrastructure 계층은 외부 API(Order, Product 등)와의 네트워크 통신, 데이터베이스, 메시징 시스템 등과 같은 외부 서비스와 소통하는 인테페이스 역할과 기술적인 관심사를 분리는 계층.
 
+![image](https://github.com/user-attachments/assets/e40c6870-d019-4ff3-abc0-74835287f846)
 
-![image](https://github.com/user-attachments/assets/0da7914b-e0ed-47fb-9526-00fe14cdac8f)
+
 
 
  
