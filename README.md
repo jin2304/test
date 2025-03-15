@@ -59,10 +59,11 @@
  - 때문에 이를 효율적으로 관리 및 책임을 분리하기 위해, 네트워크 통신 및 외부 서비스와 상호작용을 담당하는 계층을 별도로 분리하는 것이 필요하다.
  - Infrastructure 계층은 외부 서비스(Order, Product 등)와의 네트워크 통신, 데이터베이스 접근, 메시징 시스템 등과 같은 외부와 소통하는 인터페이스 역할과 기술적인 관심사를 분리는 계층.
 
-![image](https://github.com/user-attachments/assets/e40c6870-d019-4ff3-abc0-74835287f846)
+![image](https://github.com/user-attachments/assets/2a26e456-7966-4100-abf9-929ccdbc3497)
 
 
 
+<br><br>
 
  
  ex) Infrastructure 계층의 구성 요소 예시
