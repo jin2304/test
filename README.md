@@ -47,8 +47,11 @@
 #### 4계층 구조 
  - 4계층 구조는 기존 3계층에서 인프라 계층(infrastructure 계층)을 추가한 구조
 
+![image](https://github.com/user-attachments/assets/e40c6870-d019-4ff3-abc0-74835287f846)
 
 <br><br>
+
+
 
 
 ## 인프라 계층(infrastructure 계층) 
