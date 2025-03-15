@@ -34,13 +34,17 @@
  - 3계층 구조는 presentation(controller), application(service), model(domain, repository) 계층으로 구성
  - 4계층 구조는 기존 3계층에서 인프라 계층(infrastructure 계층)을 추가한 구조
 
-  #### 인프라 계층(infrastructure 계층) 이란?
- - MSA 구조에서는 서비스들이 분리되어 있기 때문에 외부 계층과 소통하기 위한 패키지를 따로 구성
- - Infrastructure 계층은 데이터베이스, 외부 API, 메시징 시스템, 파일 시스템 등과 같은 기술적인 세부 사항을 담당하는 계층이다.
-   - 데이터베이스 접근 (JPA, MyBatis 등 Repository 구현체)
-   - 외부 API 호출 (Feign Client, RestTemplate 등)
+  #### 인프라 계층(infrastructure 계층) 
+ - MSA 구조에서는 서비스들이 독립적으로 운영되므로 서로 네트워크 통신을 통해 데이터를 주고받아야 하며, 이를 담당하는 계층이 필요함.
+ - Infrastructure 계층은 외부 API(Order, Product 등)와의 네트워크 통신, 데이터베이스, 메시징 시스템 등과 같은 외부 서비스와 소통하는 인테페이스 역할과 기술적인 관심사를 분리는 계층.
+ 
+ ex) Infrastructure 계층의 구성 요소 예시
+   - 외부 서비스 호출 (Feign Client, RestTemplate 등)
+   - 데이터베이스 접근 (JPA, Redis 등 Repository 구현체)
    - 메시징 시스템 (Kafka, RabbitMQ 등)
-   - 파일 시스템 처리 (S3, FTP 등)
+   - Security & Authentication: 인증/인가 처리
+  
+
 
 
 
