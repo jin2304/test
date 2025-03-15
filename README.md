@@ -68,6 +68,7 @@
    - 메시징 시스템 (Kafka, RabbitMQ 등)
    - Security & Authentication: 인증/인가 처리
 
+```java
 com.example.myapp
 ├── application
 │   ├── service
@@ -103,7 +104,7 @@ com.example.myapp
     │   └── OrderController.java
     └── request
         └── OrderRequest.java
-
+```
 
 
 
