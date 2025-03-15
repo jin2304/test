@@ -96,7 +96,7 @@ com.example.myapp
 │   ├── configuration
 │   │   └── DatabaseConfig.java
 │   └── messaging
-│				├──	OrderMessageConsumer.java
+│				   ├──	OrderMessageConsumer.java
 │       └── OrderMessageProducer.java
 │
 └── presentation
