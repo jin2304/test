@@ -1,23 +1,24 @@
 
-## 문제  
-- 고객이 **취소된 주문 목록**을 조회하려고 할 때, **취소된 주문 목록**이 제대로 조회되지 않는 문제 발생.
-
-- 주문 검색 (고객이 취소된 주문 목록을 조회) api
-  - GET /api/v1/orders/search?orderStatus=ORDER_CANCELED&page=0&size=10&sort=createdAt,asc
 
 
-![image](https://github.com/user-attachments/assets/876d5f37-949b-45b7-83e7-3a4fc2159be3)
+## 계층형 구조(Layered Architecture) vs 도메인형 구조(Domain-Driven Design, DDD)
+ - 계층형 구조: Controller, Service, Repository 처럼 계층형으로 패키지를 구성하는 방식
+ - 도메인형 구조: 도메인 단위로 나누어 패키지를 구성하는 방식
 
-  
+
+## MSA 구조에서의 패키지 구조 3계층 vs 4계층
 
 
 
 
-<br>
 
-## 해결하려 접근한 방법  
-- 기존 주문 취소 로직에 **논리 오류**가 있는지 분석.  
-- **주문 취소**와 **주문 삭제**의 비즈니스 로직이 혼재되어 있는지 확인.  
+
+
+
+
+
+
+
 
 <br>
 
