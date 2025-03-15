@@ -80,44 +80,7 @@
    - 데이터베이스 접근 (JPA, Redis 등 Repository 구현체)
    - 메시징 시스템 (Kafka, RabbitMQ 등)
    - Security & Authentication: 인증/인가 처리
-
-```java
-com.example.myapp
-├── application
-│   ├── service
-│   │ ├── OrderService.java
-│		│		├── UserService.java
-│   │   └── OrderMessageService.java
-│   ├── dto
-│   │   └── OrderDTO.java
-├── domain
-│   ├── model
-│   │   ├── Order.java
-│   │   ├── Product.java
-│   │   └── ValueObject.java
-│   ├── repository
-│   │   └── OrderRepository.java
-│   └── service
-│       └── OrderDomainService.java
-├── infrastructure
-│   ├── repository
-│   │   ├── JpaOrderRepository.java
-│   │   ├── OrderRepositoryImpl.java
-│   │   └── OrderQueryDSLRepositoryImpl.java
-│   ├── client
-│   │   └── UserClient.java
-│   ├── configuration
-│   │   └── DatabaseConfig.java
-│   └── messaging
-│				   ├──	OrderMessageConsumer.java
-│       └── OrderMessageProducer.java
-│
-└── presentation
-    ├── controller
-    │   └── OrderController.java
-    └── request
-        └── OrderRequest.java
-```
+![image](https://github.com/user-attachments/assets/7286bc72-7926-4495-be23-3a20f34712ef)
 
 
 
