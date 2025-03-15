@@ -59,6 +59,14 @@
  - 때문에 이를 효율적으로 관리 및 책임을 분리하기 위해, 네트워크 통신 및 외부 서비스와 상호작용을 담당하는 계층을 별도로 분리하는 것이 필요하다.
  - Infrastructure 계층은 외부 서비스(Order, Product 등)와의 네트워크 통신, 데이터베이스 접근, 메시징 시스템 등과 같은 외부와 소통하는 인터페이스 역할과 기술적인 관심사를 분리는 계층.
 
+
+### 3계층 구조: 외부 API 호출은 application 계층, JPA를 이용한 데이터 접근은 domain 계층의 Repository에 위치.
+즉, 외부 API 통신과 데이터베이스 접근이 application과 domain 계층에 뒤섞여 있어 기술적인 관심사가 분리되지 않으며, 유지보수가 어려워질 수 있음
+
+![image](https://github.com/user-attachments/assets/dda16081-1463-47d1-adfd-27de58934e9e)
+
+
+### 4계층 구조: 기술적인 관심사(외부 서비스 호출, 데이터베이스 접근, 메시징 시스템 등)를 infrastructure 계층으로 별도 분리
 ![image](https://github.com/user-attachments/assets/2a26e456-7966-4100-abf9-929ccdbc3497)
 
 
