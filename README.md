@@ -80,6 +80,7 @@
    - 데이터베이스 접근 (JPA, Redis 등 Repository 구현체)
    - 메시징 시스템 (Kafka, RabbitMQ 등)
    - Security & Authentication: 인증/인가 처리
+
 ![image](https://github.com/user-attachments/assets/7286bc72-7926-4495-be23-3a20f34712ef)
 
 
