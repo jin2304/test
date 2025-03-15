@@ -58,8 +58,9 @@
    - 메시징 시스템 (Kafka, RabbitMQ 등)
    - Security & Authentication: 인증/인가 처리
 
+![image](https://github.com/user-attachments/assets/07a8e916-8151-4927-a581-2210e8a01e5b)
 
-![image](https://github.com/user-attachments/assets/fc45e48d-1e33-4e43-88ff-caf85d177c12)
+
 
 
 
