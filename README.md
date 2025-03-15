@@ -1,8 +1,9 @@
 
 
-
 ## 계층형 구조(Layered Architecture) vs 도메인형 구조(Domain-Driven Design, DDD)
- - 계층형 구조: Controller, Service, Repository 처럼 계층형으로 패키지를 구성하는 방식
+
+ #1. 계층형 구조:
+      - Controller, Service, Repository 등 처럼 계층형으로 패키지를 구성하는 방식
 
    
     com.example.project
@@ -14,8 +15,30 @@
       ├── config
       └── exception
 
+   - 장점: 전체적인 구조를 빠르게 파악할 수 있고, 규모가 적은 프로젝트나 개인 프로젝트에서는 효율적이다.
+   - 단점: 규모가 큰 프로젝트에서는 한 패키지에 클래스들이 많이 생기고, 팀 프로젝트에서 같은 패키지를 사용한다. 또한 특정 도메인에 관련된 기능을 모아서 찾기가 힘들다.
 
- - 도메인형 구조: 도메인 단위로 나누어 패키지를 구성하는 방식
+  
+
+
+  #2. 도메인형 구조: 도메인 단위로 나누어 패키지를 구성하는 방식
+
+com.example.project
+├── user
+│   ├── controller
+│   ├── service
+│   ├── repository
+│   ├── domain
+│   ├── dto
+│   └── exception
+├── product
+│   ├── controller
+│   ├── service
+│   ├── repository
+│   ├── domain
+│   ├── dto
+│   └── exception
+└── config
 
 
 ## MSA 구조에서의 패키지 구조 3계층 vs 4계층
