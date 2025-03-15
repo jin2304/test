@@ -57,7 +57,8 @@
    - 데이터베이스 접근 (JPA, Redis 등 Repository 구현체)
    - 메시징 시스템 (Kafka, RabbitMQ 등)
    - Security & Authentication: 인증/인가 처리
-  
+
+
 ![image](https://github.com/user-attachments/assets/fc45e48d-1e33-4e43-88ff-caf85d177c12)
 
 
@@ -65,12 +66,10 @@
 
 
 
-
-
-
-
-https://dev-coco.tistory.com/166
-https://velog.io/@ogu1208/Spring-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0
+#### 참고자료  
+ - https://github.com/toyland/toyland-project/wiki/%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0-%EC%84%A0%ED%83%9D-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85
+ - https://dev-coco.tistory.com/166
+ - https://velog.io/@ogu1208/Spring-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0
 
 <br>
 
