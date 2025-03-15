@@ -34,6 +34,8 @@
  - 도메인형 구조에서는 크게 3계층 구조와 4계층 구조가 존재.
  - 3계층 구조는 presentation(controller), application(service), model(domain, repository) 계층으로 구성
  - 4계층 구조는 기존 3계층에서 인프라 계층(infrastructure 계층)을 추가한 구조
+   ![image](https://github.com/user-attachments/assets/6635c462-a100-449e-869d-06e5920deddf)
+
 
   #### 인프라 계층(infrastructure 계층) 
  - MSA 구조에서는 서비스들이 독립적으로 운영되므로 서로 네트워크 통신을 통해 데이터를 주고받아야 하며, 이를 담당하는 계층을 분리하는 것이 필요함.
