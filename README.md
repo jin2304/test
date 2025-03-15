@@ -39,8 +39,6 @@
  
  - 4계층 구조는 기존 3계층에서 인프라 계층(infrastructure 계층)을 추가한 구조
 
-![image](https://github.com/user-attachments/assets/6635c462-a100-449e-869d-06e5920deddf)
-
 
 
 <br><br>
@@ -78,6 +76,8 @@
  - https://velog.io/@ogu1208/Spring-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0
 
 <br>
+
+![image](https://github.com/user-attachments/assets/6635c462-a100-449e-869d-06e5920deddf)
 
 ## 원인  
 - 기존 주문 취소 로직에서는 **"주문 삭제"** 와 **"주문 취소"** 를 동일한 기능으로 판단하여 **2가지 작업을 동시에 수행**.  
