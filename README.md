@@ -36,7 +36,8 @@
 #### 3계층 구조
  - 3계층 구조는 presentation(controller), application(service), model(domain, repository) 계층으로 구성
 
-![image](https://github.com/user-attachments/assets/acaa36e0-9124-4150-82aa-c6774110274e)
+![Uploading image.png…]()
+
 
 
 
