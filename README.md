@@ -32,6 +32,8 @@
 
 ## 도메인형 계층 구조, 3계층 vs 4계층
  - 도메인형 구조에서는 크게 3계층 구조와 4계층 구조가 존재.
+
+#### 3계층 구조
  - 3계층 구조는 presentation(controller), application(service), model(domain, repository) 계층으로 구성
 
 ![image](https://github.com/user-attachments/assets/acaa36e0-9124-4150-82aa-c6774110274e)
@@ -39,9 +41,9 @@
 
 
 <br>
- 
- - 4계층 구조는 기존 3계층에서 인프라 계층(infrastructure 계층)을 추가한 구조
 
+#### 4계층 구조 
+ - 4계층 구조는 기존 3계층에서 인프라 계층(infrastructure 계층)을 추가한 구조
 
 
 <br><br>
